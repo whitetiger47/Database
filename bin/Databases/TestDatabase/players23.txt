@@ -1,0 +1,5 @@
+<~tablename~>players23
+<~metadata~>primarykey=student_id
+<~metadata~>foreignkey=student_id<~metadata~>tablename=sa2playerssa_dd56<~metadata~>tablecolumnname=name
+<~colheader~>student_id<~colheader~>column2
+<~coldatatype~>int<~coldatatype~>int

@@ -1,0 +1,13 @@
+<~tablename~>StudentTable
+<~metadata~>primarykey=StudentID
+<~metadata~>foreignkey=studentid1
+<~metadata~>foreignkey=studentid2
+<~colheader~>StudentName<~colheader~>StudentID<~colheader~>Course
+<~colDataType~>string<~colDataType~>int<~colDataType~>int
+<~row~>Kandarp<~row~>123<~row~>MEng
+<~row~>Harvik<~row~>456<~row~>Thesis
+<~row~>smit<~row~>789<~row~>Macs
+<~row~>Kandarp<~row~>B00873868<~row~>data
+<~row~>Kandarp<~row~>B00873863<~row~>data
+<~row~>JamesBond<~row~>007<~row~>Licensetokill
+

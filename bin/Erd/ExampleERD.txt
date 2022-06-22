@@ -1,0 +1,14 @@
+Table Name :orders
+Column Name:orderid , userid , items 
+
+Table Name :shipping
+Column Name:shippingid , orderid , items 
+
+Table Name :users
+Column Name:userid , email , name 
+
+---------------------------RelationShip--------------------------
+orders (userid) - one to many relationship -  users ( userid ) 
+
+shipping (orderid) - one to many relationship -  orders ( orderid ) 
+

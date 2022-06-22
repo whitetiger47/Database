@@ -1,0 +1,4 @@
+<~tablename~>players_dd56
+<~student_id~><~name~><~column3~>
+<~int~><~string~><~string~>
+<~metadata~>primarykey=student_id

@@ -1,0 +1,11 @@
+<~tablename~>Student2
+<~metadata~>primarykey=Studentharvik
+<~metadata~>foreignkey=fkey
+<~colheader~>Harvik<~colheader~>Vasu<~colheader~>Vivek
+<~colDataType~>string<~colDataType~>string<~colDataType~>string
+<~row~>Vasu<~row~>123<~row~>MACS
+<~row~>Harvik<~row~>456<~row~>Thesis
+<~row~>smit<~row~>789<~row~>Macs
+<~row~>Kandarp<~row~>B00873868<~row~>data
+<~row~>Kandarp<~row~>B00873863<~row~>data
+<~row~>JamesBond<~row~>007<~row~>Licensetokill

@@ -1,0 +1,12 @@
+<~tablename~>aplayerssa_dd56
+<~colheader~>asfs<~colheader~>adsfas
+<~coldatatype~>int<~coldatatype~>int
+<~metadata~>primarykey=asfs
+<~metadata~>foreignkey=student_id
+<~metadata~>foreignkeyTableName=sa2playerssa_dd56
+
+<~tablename~>4playerssa_dd56
+<~colheader~>asfs<~colheader~>adsfas
+<~coldatatype~>int<~coldatatype~>int
+<~metadata~>foreignkey=student_id
+<~metadata~>foreignkeyTableName=sa2playerssa_dd56

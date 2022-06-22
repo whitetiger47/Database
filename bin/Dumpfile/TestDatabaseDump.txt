@@ -1,0 +1,8 @@
+CREATE TABLE StudentTable ( StudentName string, StudentID int, Course int, PRIMARY KEY StudentID,  FOREIGN Key studentid1 ,  FOREIGN Key studentid2 );
+
+INSERT INTO StudentTable ( StudentName, StudentID, Course ) VALUES (Kandarp, 123, MEng), (Harvik, 456, Thesis), (smit, 789, Macs), (Kandarp, B00873868, data), (Kandarp, B00873863, data), (JamesBond, 007, Licensetokill)
+
+CREATE TABLE Table2 ( Harvik string, Vasu string, Vivek string, PRIMARY KEY Studentharvik,  FOREIGN Key fkey );
+
+INSERT INTO Table2 ( Harvik, Vasu, Vivek ) VALUES (Vasu, 123, MACS), (Harvik, 456, Thesis), (smit, 789, Macs), (Kandarp, B00873868, data), (Kandarp, B00873863, data), (JamesBond, 007, Licensetokill)
+

@@ -1,0 +1,12 @@
+CREATE TABLE orders ( orderid int, userid string, items string, primary key orderid, foreign key userid references users ( userid ) );
+
+INSERT INTO orders ( orderid, userid, items ) VALUES (1, u1, earphone), (2, u2, tablets), (3, u3, wallet)
+
+CREATE TABLE shipping ( shippingid int, orderid string, items string, primary key shippingid, foreign key orderid references orders ( orderid ) );
+
+INSERT INTO shipping ( shippingid, orderid, items ) VALUES (s1, 1, earphone), (s2, 2, tablets), (s3, 3, wallet)
+
+CREATE TABLE users ( userid string, email string, name string, primary key userid);
+
+INSERT INTO users ( userid, email, name ) VALUES (u1, h@gmai.com, Harvik), (u2, v@gmai.com, Harsh), (u3, s@gmai.com, Kandarp)
+

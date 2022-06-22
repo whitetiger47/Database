@@ -1,0 +1,8 @@
+
+<Wed Dec 08 17:47:40 AST 2021>-<kandarp>-<The running concurrent transactions are : Lock applied on table : StudentTableThere has been an database crash due to: No duplicate primary key>
+<Wed Dec 08 17:47:54 AST 2021>-<kandarp>-<The running concurrent transactions are : Lock applied on table : StudentTableThere has been an database crash due to: No duplicate primary key>
+<Wed Dec 08 17:48:24 AST 2021>-<kandarp>-<The running concurrent transactions are : Lock applied on table : StudentTableThere has been an database crash due to: No duplicate primary key>
+<Wed Dec 08 17:48:42 AST 2021>-<kandarp>-<The running concurrent transactions are : Lock applied on table : StudentTable>
+<Wed Dec 08 17:49:12 AST 2021>-<kandarp>-<The running concurrent transactions are : Lock applied on table : StudentTable>
+<Wed Dec 08 17:49:45 AST 2021>-<kandarp>-<The changes made to database are : Rows affected : 1The running concurrent transactions are : Lock applied on table : StudentTable>
+<Wed Dec 08 18:25:25 AST 2021>-<kandarp>-<The running concurrent transactions are : Lock applied on table : StudentTableThere has been an database crash due to: ERROR : Duplicate Primary Key>

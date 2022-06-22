@@ -1,0 +1,8 @@
+<~tablename~>orders
+<~metadata~>primarykey=orderid
+<~metadata~>foreignkey=userid<~metadata~>tablename=users<~metadata~>tablecoumnname=userid
+<~colheader~>orderid<~colheader~>userid<~colheader~>items
+<~coldatatype~>int<~coldatatype~>string<~coldatatype~>string
+<~row~>1<~row~>u1<~row~>earphone
+<~row~>2<~row~>u2<~row~>tablets
+<~row~>3<~row~>u3<~row~>wallet

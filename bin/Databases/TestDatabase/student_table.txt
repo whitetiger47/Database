@@ -1,0 +1,4 @@
+<~tablename~>student_table
+<~metadata~>primarykey=id
+<~colheader~>id<~colheader~>name<~colheader~>column3
+<~coldatatype~>int<~coldatatype~>string<~coldatatype~>string

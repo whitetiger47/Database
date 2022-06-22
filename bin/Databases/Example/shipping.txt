@@ -1,0 +1,8 @@
+<~tablename~>shipping
+<~metadata~>primarykey=shippingid
+<~metadata~>foreignkey=orderid<~metadata~>tablename=orders<~metadata~>tablecoumnname=orderid
+<~colheader~>shippingid<~colheader~>orderid<~colheader~>items
+<~coldatatype~>int<~coldatatype~>string<~coldatatype~>string
+<~row~>s1<~row~>1<~row~>earphone
+<~row~>s2<~row~>2<~row~>tablets
+<~row~>s3<~row~>3<~row~>wallet

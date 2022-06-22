@@ -1,0 +1,7 @@
+<~tablename~>users
+<~metadata~>primarykey=userid
+<~colheader~>userid<~colheader~>email<~colheader~>name
+<~coldatatype~>string<~coldatatype~>string<~coldatatype~>string
+<~row~>u1<~row~>h@gmai.com<~row~>Harvik
+<~row~>u2<~row~>v@gmai.com<~row~>Harsh
+<~row~>u3<~row~>s@gmai.com<~row~>Kandarp
